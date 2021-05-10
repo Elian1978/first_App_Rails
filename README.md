@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-[diagrama](README.md)
+[diagrama](DIAGRAMA_FINAL.pdf)
